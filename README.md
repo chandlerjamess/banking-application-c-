@@ -1,2 +1,2 @@
-# banking-application-c-
+# banking-application-c-sharp
 An interactive banking console application
